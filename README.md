@@ -4,10 +4,8 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-Claro, posso ajudar com isso. Aqui está um exemplo de um arquivo CSS que você pode usar. Ele adiciona algumas cores agradáveis e espaçamentos para a sua lista de tarefas:
-
-```css
-body {
+  
+{
   background-color: #f5f5f5;
   font-family: Arial, sans-serif;
 }
@@ -64,4 +62,4 @@ ul#myUL li {
 
 </body>
 </html>
-crie em cima de html um css lindo bonito comespaçamentos exatos entre os elementos e com cores legais
+
